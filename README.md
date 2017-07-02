@@ -5,7 +5,7 @@ How to use this Microservice?
 
 First, clone it with .ssh (Note: please see how to configure .ssh for github)
 
-Sevond, after running maven lifecycle, run the command in the terminal: java -jar target/spring-boot-app-1.0-SNAPSHOT.jar
+Second, after running maven lifecycle, run the command in the terminal: java -jar target/spring-boot-app-1.0-SNAPSHOT.jar
 
 third, use postman to make sure this microservice is up and running 
 
