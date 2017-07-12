@@ -1,7 +1,7 @@
 # spring-boot-app
 Microservice using Spring Boot Application Java Spring Boot Framework
 
-How to use this Microservice?
+### How to use this Microservice?
 
 First, clone it with .ssh (Note: please see how to configure .ssh for github)
 
